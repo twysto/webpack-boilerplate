@@ -1,4 +1,4 @@
-# webpack-tutorial
+# webpack-boilerplate
 
 ## Description
 
